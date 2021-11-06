@@ -1,0 +1,59 @@
+# Created by Octave 6.3.0, Thu Nov 04 18:40:24 2021 CET <b3nshi@b3nshi-2.local>
+# name: GENERATIONS
+# type: scalar
+100
+
+
+# name: INDEX_OF_PLAYERS
+# type: range
+# base, limit, increment
+1 12 1
+
+
+# name: MAX_POSSIBLE_SCORE
+# type: scalar
+54
+
+
+# name: MAX_SCORE
+# type: scalar
+10
+
+
+# name: MIN_SCORE
+# type: scalar
+1
+
+
+# name: NUMBER_OF_PLAYERS
+# type: scalar
+12
+
+
+# name: PERCENTAGE_OF_CROSSOVER
+# type: scalar
+0.20000000000000001
+
+
+# name: PERCENTAGE_OF_MUTATION
+# type: scalar
+0.10000000000000001
+
+
+# name: PERCENTAGE_OF_SELECTION
+# type: scalar
+0.69999999999999996
+
+
+# name: PLAYERS
+# type: matrix
+# rows: 1
+# columns: 12
+ 1 2 6 8 3 4 9 7 8 8 2 10
+
+
+# name: POPULATION_SIZE
+# type: scalar
+40
+
+
